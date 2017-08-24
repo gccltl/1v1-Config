@@ -1,9 +1,11 @@
 # GCC'S 1v1 Matchmaking (MM) Config.
 
 ## How-To
+## ***********************************************************************************
 
-### Create a file '(name).cfg' in /home/user/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg
-### 2. Execute a command in game: exec (name).cfg
+ **1. Create a file '(name).cfg' in /home/user/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg**
+ 
+ **2. Execute a command in game: exec (name).cfg**
 
 Enjoyed? Consider donating by CS:GO skins [gCC](https://steamcommunity.com/tradeoffer/new/?partner=216446377&token=lpFfuRrG). 
 
