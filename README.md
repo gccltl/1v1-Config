@@ -1,3 +1,4 @@
+```
 // https://mattg.cc
 // Discord: mattgcc#4538
 
@@ -49,4 +50,4 @@ sv_cheats 0 // OFF
 
 say "Go! Go! Go!" 
 
-
+```
