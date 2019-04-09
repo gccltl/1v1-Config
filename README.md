@@ -1,16 +1,6 @@
-# GCC'S 1v1 Matchmaking (MM) Config.
+// https://mattg.cc
+// Discord: mattgcc#4538
 
-## How-To
-
- **1. Create a file '(name).cfg' in /home/user/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg**
- 
- **2. Execute a command in game: exec (name).cfg**
-
-
-```
-// BY GCC
-// steam64 - 76561198176712105
-// http://steamcommunity.com/profiles/76561198176712105
 say "Match Is Starting"
 sv_cheats 1 // ON 
 mp_teamname_1 Team A
@@ -28,8 +18,8 @@ sv_full_alltalk "1"
 mp_ct_default_primary "weapon_ak47"
 mp_ct_default_secondary "weapon_p250"
 mp_free_armor 100
-mp_respawn_on_death_ct 0 //CHANGE TO 1 RESULTS AUTO RESPAWNS
-mp_respawn_on_death_t 0 //CHANGE TO 1 RESULTS AUTO RESPAWNS
+mp_respawn_on_death_ct 0 // CHANGE TO 1 RESULTS AUTO RESPAWNS
+mp_respawn_on_death_t 0 // CHANGE TO 1 RESULTS AUTO RESPAWNS
 mp_t_default_primary "weapon_ak47"
 mp_t_default_secondary "weapon_p250"
 mp_freezetime 1.5
@@ -41,23 +31,22 @@ bot_quota 0
 mp_warmup_end
 mp_restartgame 1
 // ----
-hostname "1v1 - GCC"
+hostname "1 Vs. 1 - mattgcc"
 // ----
 
+
+// Functionality below was removed from the game (- gCC, 2019)
 // AUTO-HOPING (BHOP) START. DO NOT TOUCH THIS.
 // IF YOU WANT TO DISABLE THIS JUST COMMENT "//" OR DELETE THIS LINE
 // ------------------------------------------------------------------------------
-sv_airaccelerate 333; sv_staminalandcost 0; sv_staminajumpcost 0; sv_staminamax 80; sv_staminarecoveryrate 60﻿
+// sv_airaccelerate 333; sv_staminalandcost 0; sv_staminajumpcost 0; sv_staminamax 80; sv_staminarecoveryrate 60﻿ 
 // ------------------------------------------------------------------------------
 // AUTO-HOPING (BHOP) END. DO NOT TOUCH THIS.
 // IF YOU WANT TO DISABLE THIS JUST COMMENT "//" OR DELETE THIS LINE
-
+// Functionality above was removed from the game (- gCC, 2019)
 sv_cheats 0 // OFF
 // -----------------------------------------------------------------------
-say "GO! GO! GO! 
+
+say "Go! Go! Go!" 
 
 
-// BY GCC
-// steam64 - 76561198176712105
-// http://steamcommunity.com/profiles/76561198176712105
-``` 
